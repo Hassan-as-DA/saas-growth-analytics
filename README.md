@@ -137,6 +137,3 @@ make docs        # live-reload server on port 8000
 make docs-build  # one-shot HTML build to docs/_build/html
 ```
 
-## License
-
-MIT
